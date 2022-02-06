@@ -1,0 +1,3 @@
+
+{'Name': ['priya'], 'Address': ['cbe'], 'Phone': [8754021018], 'Balance': [100]}
+{'Name': ['priya'], 'Address': ['cbe'], 'Phone': [8754021018], 'Balance': [200]}
